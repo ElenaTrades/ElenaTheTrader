@@ -1,5 +1,10 @@
 # Elena 🤖💰
 
+[![CI](https://github.com/SolyforTrenchers/ElenatheTrader/workflows/CI/badge.svg)](https://github.com/SolyforTrenchers/ElenatheTrader/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?logo=solana)](https://solana.com)
+
 An intelligent automated Solana trader with four specialized trading modes, each powered by unique data sources and strategies.
 
 ---
