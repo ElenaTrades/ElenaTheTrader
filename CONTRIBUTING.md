@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Elena! 🎉
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/ElenatheTrader.git`
+2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/ElenaTheTrader.git`
 3. Create a new branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Run tests (if applicable)

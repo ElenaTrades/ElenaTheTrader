@@ -1,6 +1,6 @@
 # Elena 🤖💰
 
-[![CI](https://github.com/SolyforTrenchers/ElenatheTrader/workflows/CI/badge.svg)](https://github.com/SolyforTrenchers/ElenatheTrader/actions)
+[![CI](https://github.com/ElenaTrades/ElenaTheTrader/workflows/CI/badge.svg)](https://github.com/ElenaTrades/ElenaTheTrader/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Built on Solana](https://img.shields.io/badge/Built%20on-Solana-9945FF?logo=solana)](https://solana.com)
@@ -71,8 +71,8 @@ Mirrors the trades of the most profitable Solana wallets in real-time. Identifie
 
 ```bash
 # Clone and setup
-git clone https://github.com/SolyforTrenchers/ElenatheTrader.git
-cd ElenatheTrader
+git clone https://github.com/ElenaTrades/ElenaTheTrader.git
+cd ElenaTheTrader
 ./setup.sh
 
 # Configure (add your API keys and wallet keys)
@@ -199,9 +199,9 @@ This is an experimental trading bot. Cryptocurrency trading involves substantial
 
 ## 🔗 Links
 
-- **Repository:** https://github.com/SolyforTrenchers/ElenatheTrader
-- **Issues:** https://github.com/SolyforTrenchers/ElenatheTrader/issues
-- **Discussions:** https://github.com/SolyforTrenchers/ElenatheTrader/discussions
+- **Repository:** https://github.com/ElenaTrades/ElenaTheTrader
+- **Issues:** https://github.com/ElenaTrades/ElenaTheTrader/issues
+- **Discussions:** https://github.com/ElenaTrades/ElenaTheTrader/discussions
 
 ---
 

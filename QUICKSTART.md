@@ -12,8 +12,8 @@ Get Elena up and running in 5 minutes! 🚀
 
 ```bash
 # Clone the repository
-git clone https://github.com/SolyforTrenchers/ElenatheTrader.git
-cd ElenatheTrader
+git clone https://github.com/ElenaTrades/ElenaTheTrader.git
+cd ElenaTheTrader
 
 # Run setup script
 chmod +x setup.sh
@@ -197,8 +197,8 @@ Double-check your API keys are correct and have proper permissions.
 
 ## Getting Help
 
-- **Issues:** https://github.com/SolyforTrenchers/ElenatheTrader/issues
-- **Discussions:** https://github.com/SolyforTrenchers/ElenatheTrader/discussions
+- **Issues:** https://github.com/ElenaTrades/ElenaTheTrader/issues
+- **Discussions:** https://github.com/ElenaTrades/ElenaTheTrader/discussions
 
 ---
 

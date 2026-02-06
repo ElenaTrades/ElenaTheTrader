@@ -1,6 +1,6 @@
 # Elena - Project Summary
 
-**Repository:** https://github.com/SolyforTrenchers/ElenatheTrader
+**Repository:** https://github.com/ElenaTrades/ElenaTheTrader
 
 ## Overview
 
@@ -259,9 +259,9 @@ python scripts/monitor.py
 
 ## Links
 
-- **Repository:** https://github.com/SolyforTrenchers/ElenatheTrader
-- **Issues:** https://github.com/SolyforTrenchers/ElenatheTrader/issues
-- **Discussions:** https://github.com/SolyforTrenchers/ElenatheTrader/discussions
+- **Repository:** https://github.com/ElenaTrades/ElenaTheTrader
+- **Issues:** https://github.com/ElenaTrades/ElenaTheTrader/issues
+- **Discussions:** https://github.com/ElenaTrades/ElenaTheTrader/discussions
 
 ## Quick Stats
 
