@@ -1,0 +1,52 @@
+elena:
+  version: "1.0.0"
+  mode: "production"
+  
+traders:
+  volume_trader:
+    enabled: true
+    wallet: "Dsfm1XdBWBF68aSAYqZoTP6PRzxc4ZGgeXU14Zw8XAGU"
+    strategy:
+      volume_threshold_multiplier: 3.0
+      timeframe_minutes: 15
+      min_volume_usd: 50000
+      exit_on_volume_drop: true
+    
+  lore_trader:
+    enabled: true
+    wallet: "3zJqfGWg577XLmyNk7XGF8WQvxTWWVghj7diop1FrYeE"
+    strategy:
+      sentiment_threshold: 0.7
+      narrative_strength_min: 0.6
+      monitor_platforms: ["twitter", "discord", "telegram"]
+      keyword_tracking: true
+    
+  tiktok_trader:
+    enabled: true
+    wallet: "AgqPKDQpubJcnahXVeSdQy4KimVuQearp4FKokRASXPu"
+    strategy:
+      viral_threshold_views: 100000
+      early_detection_window_hours: 6
+      hashtag_monitoring: true
+      engagement_rate_min: 0.05
+    
+  copy_trader:
+    enabled: true
+    wallet: "CkSAH87iysawMBVaWginNW1tcWDSJ3x9UuL8Lkfjmmuu"
+    strategy:
+      top_wallets_count: 10
+      min_wallet_roi_30d: 2.0
+      copy_delay_seconds: 5
+      position_size_ratio: 0.5
+
+risk_management:
+  global_stop_loss: 0.15
+  global_take_profit: 0.50
+  max_concurrent_positions: 5
+  max_position_size_pct: 0.20
+  daily_loss_limit_sol: 5
+  
+dex:
+  primary: "raydium"
+  backup: ["jupiter", "orca"]
+  priority_fee_lamports: 10000
